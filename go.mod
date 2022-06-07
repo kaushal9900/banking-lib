@@ -1,4 +1,4 @@
-module banking-lib
+module github.com/kaushal9900/banking-lib
 
 go 1.17
 
